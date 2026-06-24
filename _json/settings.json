@@ -1,0 +1,7 @@
+{
+    "Settings": {
+        "Api Key": "API_KEY",
+        
+        "Proxy": "USER:PASSWORD@HOST:PORT"
+        }
+    }
